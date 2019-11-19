@@ -10,7 +10,7 @@ In this project we show how to run a test with:
   - Different user operations
   - Results reporting
 
-JMeter tests can be executed from JMeter's UI by loading the `ACS_test_scripts/ACS-6-1.jmx` test plan or from the command line. We first need to edit and configured the test plan variables to meet our environment details and test needs.
+JMeter tests can be executed from JMeter's UI by loading the `ACS_test_scripts/ACS-6-1.jmx` test plan or from the command line. We first need to edit and configure the test plan variables to meet our environment details and test needs.
      
 ![JMeter  UI](images/JMeterTestVariables.png)
 
